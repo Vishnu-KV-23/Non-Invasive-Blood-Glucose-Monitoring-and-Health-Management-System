@@ -1,0 +1,39 @@
+# Flutter/Dart related
+*.dart_tool/
+*.packages
+*.flutter-plugins
+*.flutter-plugins-dependencies
+*.flutter-versions
+
+# Build outputs
+build/
+android/app/build/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+
+# IntelliJ related
+*.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code related
+.vscode/
+
+# macOS related
+.DS_Store
+
+# Windows related
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Other
+pubspec.lock

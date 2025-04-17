@@ -1,0 +1,2 @@
+C:/Users/Kumar/Desktop/dol/android/app/.cxx/RelWithDebInfo/n4y213ol/x86/CMakeFiles/edit_cache.dir
+C:/Users/Kumar/Desktop/dol/android/app/.cxx/RelWithDebInfo/n4y213ol/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,23 @@
+{
+  "name": "dol",
+  "version": "1.0.0",
+  "description": "A fully-connected neural network was implemented using various human condition features. A dataset encompassing diverse age groups, including both diabetic and non-diabetic individuals was introduced with superficial body including Blood Glucose Level (BGL), Diastolic and Systolic Blood Pressure, Heart Rate, Body Temperature, SPO2, Sweating and Shivering.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.13.0"
+  }
+}
